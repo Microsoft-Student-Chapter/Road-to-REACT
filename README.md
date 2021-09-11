@@ -10,7 +10,7 @@
 # Contribution Instructions
  ##### 1. Mention Your Registration Number and Name  in Pull Request 
  ##### 2. Create A Root Folder with your Registration Number
- ##### 3. Add your Name to Contributor in readme
+ ##### 3. Add your Name to Contributor in readme.md
   
 # setup 
 ### Read [instruction.md](https://github.com/Microsoft-Student-Chapter/Road-to-REACT/blob/main/instruction.md)
@@ -21,3 +21,5 @@
 | :---        |    :----:   |          ---:     |
 | Naveen   |  19BCN7185    | [Link](http://engineerscodes.github.io/Road-to-REACT)|
 | | | |
+
+
