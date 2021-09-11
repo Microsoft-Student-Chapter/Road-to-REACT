@@ -15,7 +15,7 @@
 # setup 
 ### Read [instruction.md](https://github.com/Microsoft-Student-Chapter/Road-to-REACT/blob/main/instruction.md)
  
-# Contributors 🤖
+# Contributors 🤖 |
 
 | Name     | Registration Number |  GitPage Link       |
 | :---        |    :----:   |          ---:     |
